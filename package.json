@@ -1,0 +1,11 @@
+{
+  "name": "metalsmith-test-package",
+  "version": "1.0.0",
+  "description": "exploring metalsmith package dev",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aidan Feay <aidanlfeay@gmail.com> (http://aidanfeay.com)",
+  "license": "ISC"
+}
